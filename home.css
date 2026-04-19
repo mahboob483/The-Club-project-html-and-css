@@ -181,7 +181,7 @@
 .about {
   height: 15rem;
   width: 100vw;
-  background-color: rgba(249, 248, 246);
+  background-color:#FFFFFF;
   padding-left: 25px;
   padding: 1rem;
 }
@@ -276,7 +276,7 @@ p {
 
 /* Name */
 .cardt h4 {
- 
+  margin: 12px 0;
 }
 
 /* Role (your “scale”) */
